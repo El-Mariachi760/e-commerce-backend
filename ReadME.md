@@ -27,3 +27,5 @@ npm install mysql2
 npm install sequelize
 
 npm install dotenv
+
+npm install express
