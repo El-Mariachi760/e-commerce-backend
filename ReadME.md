@@ -13,6 +13,11 @@ An Application backend for an e-commerce website
 
 ## Demo
 
+MySQL sourcing
+
+https://user-images.githubusercontent.com/94568874/180625856-7eccc4ef-857f-412a-bf8b-f88adcd419d6.mp4
+
+Routes demo
 
 https://user-images.githubusercontent.com/94568874/180625418-ecc8751c-6d95-4db3-a4e0-f90437b57662.mp4
 
